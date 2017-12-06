@@ -1,0 +1,54 @@
+﻿生成启动时间为 2014/6/23 18:24:13。
+     1>项目“C:\Users\X'moe\Documents\visual studio 2010\Projects\MajiroV3\MajiroV3\MajiroV3.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\MajiroV3.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\MajiroV3.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MajiroV3.cpp
+         MajiroV3.cpp
+     1>MajiroV3.cpp(2792): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(312) : 参见“open”的声明
+     1>MajiroV3.cpp(2795): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(313) : 参见“read”的声明
+     1>MajiroV3.cpp(2803): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(313) : 参见“read”的声明
+     1>MajiroV3.cpp(2807): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(310) : 参见“lseek”的声明
+     1>MajiroV3.cpp(2808): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(313) : 参见“read”的声明
+     1>MajiroV3.cpp(2823): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(310) : 参见“lseek”的声明
+     1>MajiroV3.cpp(2824): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(318) : 参见“write”的声明
+     1>MajiroV3.cpp(2825): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(318) : 参见“write”的声明
+     1>MajiroV3.cpp(2826): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(318) : 参见“write”的声明
+     1>MajiroV3.cpp(2831): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(313) : 参见“read”的声明
+     1>MajiroV3.cpp(2837): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(310) : 参见“lseek”的声明
+     1>MajiroV3.cpp(2838): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(313) : 参见“read”的声明
+     1>MajiroV3.cpp(2855): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(310) : 参见“lseek”的声明
+     1>MajiroV3.cpp(2856): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(318) : 参见“write”的声明
+     1>MajiroV3.cpp(2864): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(302) : 参见“close”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\X'moe\Documents\Visual Studio 2010\Projects\MajiroV3\Release\MajiroV3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\MajiroV3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\X'moe\Documents\Visual Studio 2010\Projects\MajiroV3\Release\MajiroV3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\X'moe\Documents\Visual Studio 2010\Projects\MajiroV3\Release\MajiroV3.lib" /MACHINE:X86 Release\MajiroV3.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         MajiroV3.vcxproj -> C:\Users\X'moe\Documents\Visual Studio 2010\Projects\MajiroV3\Release\MajiroV3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\X'moe\Documents\Visual Studio 2010\Projects\MajiroV3\Release\MajiroV3.exe;#1" /manifest Release\MajiroV3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\MajiroV3.unsuccessfulbuild”。
+         正在对“Release\MajiroV3.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\X'moe\Documents\visual studio 2010\Projects\MajiroV3\MajiroV3\MajiroV3.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.34

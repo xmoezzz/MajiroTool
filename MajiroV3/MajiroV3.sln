@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MajiroV3", "MajiroV3\MajiroV3.vcxproj", "{D48B37C5-31F7-4D5C-8610-EB7CE9FD14E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48B37C5-31F7-4D5C-8610-EB7CE9FD14E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D48B37C5-31F7-4D5C-8610-EB7CE9FD14E1}.Debug|Win32.Build.0 = Debug|Win32
+		{D48B37C5-31F7-4D5C-8610-EB7CE9FD14E1}.Release|Win32.ActiveCfg = Release|Win32
+		{D48B37C5-31F7-4D5C-8610-EB7CE9FD14E1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
